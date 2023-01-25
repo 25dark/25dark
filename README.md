@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [smartbeeinc.com](smartbeeinc.com)
 
-- 💬 Ask me about **C, Shell, sql**
+- 💬 Ask me about **JavaScript || sql**
 
 - 📫 How to reach me **smartbeeinc6@gmail.com**
 
