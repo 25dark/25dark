@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **eSales | E-Commerce**
 
-- 🌱 I’m currently learning **C, Shell**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [smartbeeinc.com](smartbeeinc.com)
 
