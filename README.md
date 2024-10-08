@@ -1,6 +1,5 @@
 [![MasterHead](http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)](https://www.smartbeeinc.com)
 <h1 align="center">Hi 👋, I'm Henry Egyir Junior Danso</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Ghana</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
