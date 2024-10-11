@@ -17,13 +17,13 @@
   
 - 🌱 I’m always learning & building personal projects (in private repos usually)
 
-- 👨‍💻 🖥️ My agency website [SmartBeeInc](https://www.smartbeeinc.com)
+- 👨‍💻 My agency [SmartBeeInc](https://www.smartbeeinc.com)
 
 - 📫 How to reach me **smartbeeinc6@gmail.com**
 
 - ⚡ Fun fact: **I love to add humor to my work!**
 
-- 🌮 When I'm not coding, I'm working out, cooking, reading, and thinking about new features for my app.
+- 🌮 When I'm not coding, I'm working out, cooking, reading, and thinking about new features for my app. **EasyRent**
 
 ---
 
