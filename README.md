@@ -22,7 +22,7 @@
 
 - I’m a **full-stack JavaScript engineer** focused on building real products people actually use  
 - Founder of **AIOMarketApp** — an all-in-one marketplace for properties, products, food & local services  
-- I work mostly with **TypeScript, React, React Native (Expo), Node.js & MongoDB**  
+- I work mostly with **JavaScript, React, React Native (Expo), Node.js & MongoDB**  
 - I enjoy designing **systems**, not just screens or endpoints  
 - Most of my serious work lives in **private repos** (production reality 😄)
 
