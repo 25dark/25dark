@@ -68,7 +68,7 @@
   <a href="https://twitter.com/devoverlord_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/henry-danso-a89213117" target="_blank">
+  <a href="https://linkedin.com/in/henryegyirjuniordanso" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/dev.overlord" target="_blank">
@@ -93,15 +93,3 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25dark&layout=compact&theme=tokyonight" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=25dark&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=25dark&theme=tokyonight" />
-</p>
