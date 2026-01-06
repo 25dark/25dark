@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Henry Egyir Junior Danso</h1>
 <h3 align="center">Founder • Full-Stack Engineer • Product Builder</h3>
 
-<img align="right" alt="coding" width="420" src="[https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)">
+<img align="right" alt="coding" width="420" src="[https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif]">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=25dark&label=Profile%20views&color=0e75b6&style=flat" alt="25dark" />
