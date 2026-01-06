@@ -1,18 +1,29 @@
 <!-- Hero Banner -->
-[![MasterHead]](https://www.smartbeeinc.com)
+[![MasterHead](https://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)](https://www.smartbeeinc.com)
 
 <h1 align="center">Hi 👋, I'm Henry Egyir Junior Danso</h1>
 <h3 align="center">Founder • Full-Stack Engineer • Product Builder</h3>
 
-<img align="right" alt="coding" width="420" src="[https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif]">
+<img
+  align="right"
+  alt="coding"
+  width="420"
+  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=25dark&label=Profile%20views&color=0e75b6&style=flat" alt="25dark" />
+  <img
+    src="https://komarev.com/ghpvc/?username=25dark&label=Profile%20views&color=0e75b6&style=flat"
+    alt="25dark"
+  />
 </p>
 
 <p align="left">
   <a href="https://twitter.com/devoverlord_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/devoverlord_?logo=twitter&style=for-the-badge" />
+    <img
+      src="https://img.shields.io/twitter/follow/devoverlord_?logo=twitter&style=for-the-badge"
+      alt="Twitter Follow"
+    />
   </a>
 </p>
 
@@ -47,18 +58,18 @@
 
 ### 📫 Reach Me
 
-- Email: **dev.xoverlord@gmail.com**
-- Twitter/X: **@devoverlord_**
-- Instagram: **dev.overlord**
+- Email: **dev.xoverlord@gmail.com**  
+- Twitter/X: **@devoverlord_**  
+- Instagram: **dev.overlord**  
 - LinkedIn/Facebook: **Henry Egyir Junior Danso**
 
 ---
 
 ### ⚡ Fun Side Notes
 
-- I like shipping fast but **clean**
-- I add humor where it doesn’t break production
-- When I’m not coding: workouts, cooking, reading, and sketching new product ideas
+- I like shipping fast but **clean**  
+- I add humor where it doesn’t break production  
+- When I’m not coding: workouts, cooking, reading, and sketching new product ideas  
 
 ---
 
@@ -66,13 +77,28 @@
 
 <p align="left">
   <a href="https://twitter.com/devoverlord_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      height="30"
+      width="40"
+    />
   </a>
   <a href="https://linkedin.com/in/henryegyirjuniordanso" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30"
+      width="40"
+    />
   </a>
   <a href="https://instagram.com/dev.overlord" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
@@ -93,3 +119,24 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=25dark&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=25dark&show_icons=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=25dark"
+    alt="GitHub Streak"
+  />
+</p>
