@@ -1,5 +1,5 @@
 <!-- Hero Banner -->
-[![MasterHead](https://user-images.githubusercontent.com/0000000/aiomarket-dev-banner.gif)](https://www.smartbeeinc.com)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)](https://www.smartbeeinc.com)
 
 <h1 align="center">Hi 👋, I'm Henry Egyir Junior Danso</h1>
 <h3 align="center">Founder • Full-Stack Engineer • Product Builder</h3>
